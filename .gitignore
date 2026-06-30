@@ -1,0 +1,17 @@
+
+Docs/
+Deepak_Singh_Profile_PM.pdf
+Rahul_Malik_WA0004..pdf
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.pyc
+
+# Virtual Environment
+venv/
+.venv/
